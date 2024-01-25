@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class FixerApi() created that it have the key of the API and class FixerCurrencyLoader() done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/fixers/FixerApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/fixers/FixerApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/fixers/FixerCurrencyLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/fixers/FixerCurrencyLoader.java" afterDir="false" />
+    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class Main created, done and reload a new URL key api">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Swing/SwingCurrencyDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Swing/SwingCurrencyDialog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706221649672</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Class Main created, done and reload a new URL key api">
+      <created>1706225164415</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1706225164415</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,6 +255,7 @@
     <MESSAGE value="Class FixerExchangeRateLoader created that implements ExchangeRateLoader" />
     <MESSAGE value="Class FixerCurrencyLoader that imnplements CurrencyLoader and added to pom the dependency gson" />
     <MESSAGE value="Class FixerApi() created that it have the key of the API and class FixerCurrencyLoader() done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class FixerApi() created that it have the key of the API and class FixerCurrencyLoader() done" />
+    <MESSAGE value="Class Main created, done and reload a new URL key api" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Main created, done and reload a new URL key api" />
   </component>
 </project>
