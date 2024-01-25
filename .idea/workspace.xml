@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class SwingMoneyDialog created and done" />
+    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class SwingMoneyDisplay created that extends JLabel and implements MoneyDisplay">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Swing/SwingMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Swing/SwingMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SwingMain">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="software.ulpgc.moneycalculator.fixers.Main" />
       <module name="money-calculator" />
@@ -60,8 +62,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="software.ulpgc.moneycalculator.Swing.SwingMain" />
+      <module name="money-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="software.ulpgc.moneycalculator.Swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwingMain" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -243,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706226173112</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Class SwingMoneyDisplay created that extends JLabel and implements MoneyDisplay">
+      <created>1706226291541</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1706226291541</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,6 +294,7 @@
     <MESSAGE value="Class SwingCurrencyDialog this class extends JPanel and implements the CurrecnyDialog" />
     <MESSAGE value="Class SwingCurrencyDialog this class extends JPanel and implements the CurrencyDialog" />
     <MESSAGE value="Class SwingMoneyDialog created and done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class SwingMoneyDialog created and done" />
+    <MESSAGE value="Class SwingMoneyDisplay created that extends JLabel and implements MoneyDisplay" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class SwingMoneyDisplay created that extends JLabel and implements MoneyDisplay" />
   </component>
 </project>
