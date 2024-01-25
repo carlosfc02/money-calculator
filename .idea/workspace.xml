@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Interface CurrencyLoader created and done with the action load()">
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeRate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeRateLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeRateLoader.java" afterDir="false" />
+    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Iterface MoneyDisplay created with the action show a Money">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Command.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
       <list>
         <option value="Class" />
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Record" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -86,7 +85,35 @@
       <option name="project" value="LOCAL" />
       <updated>1706216868557</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Record ExchangeRate created and done with a from-to Currency, Date and rate">
+      <created>1706217106920</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706217106920</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Record ExchangeRate created and done with a from-to Currency, Date and rate">
+      <created>1706217113186</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706217113186</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Interface MoneyDialog created and done with the actions define a list of currencies and get a Money">
+      <created>1706217261951</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706217261951</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Iterface MoneyDisplay created with the action show a Money">
+      <created>1706217340879</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706217340879</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,6 +122,9 @@
     <MESSAGE value="Record Currency created and done with toString() method, record Money() done with toString()" />
     <MESSAGE value="Interface CurrencyDialog created with the actions define() a list of currencies and get() a Currency" />
     <MESSAGE value="Interface CurrencyLoader created and done with the action load()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface CurrencyLoader created and done with the action load()" />
+    <MESSAGE value="Record ExchangeRate created and done with a from-to Currency, Date and rate" />
+    <MESSAGE value="Interface MoneyDialog created and done with the actions define a list of currencies and get a Money" />
+    <MESSAGE value="Iterface MoneyDisplay created with the action show a Money" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterface MoneyDisplay created with the action show a Money" />
   </component>
 </project>
