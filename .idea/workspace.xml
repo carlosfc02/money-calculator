@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class FixerCurrencyLoader that imnplements CurrencyLoader and added to pom the dependency gson">
+    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class FixerApi() created that it have the key of the API and class FixerCurrencyLoader() done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/fixers/FixerApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/fixers/FixerApi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/fixers/FixerCurrencyLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/fixers/FixerCurrencyLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +50,26 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="software.ulpgc.moneycalculator.fixers.Main" />
+      <module name="money-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="software.ulpgc.moneycalculator.fixers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -197,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706221092832</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Class FixerApi() created that it have the key of the API and class FixerCurrencyLoader() done">
+      <created>1706221649672</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1706221649672</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +249,7 @@
     <MESSAGE value="Class MockMain created and done that execute the command execute with the ExchangeMoneyCommand" />
     <MESSAGE value="Class FixerExchangeRateLoader created that implements ExchangeRateLoader" />
     <MESSAGE value="Class FixerCurrencyLoader that imnplements CurrencyLoader and added to pom the dependency gson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class FixerCurrencyLoader that imnplements CurrencyLoader and added to pom the dependency gson" />
+    <MESSAGE value="Class FixerApi() created that it have the key of the API and class FixerCurrencyLoader() done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class FixerApi() created that it have the key of the API and class FixerCurrencyLoader() done" />
   </component>
 </project>

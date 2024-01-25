@@ -27,7 +27,7 @@ public class FixerCurrencyLoader implements CurrencyLoader {
     }
 
     private String loadJson() throws IOException {
-        URL url = new URL("https://data.fixer.io/api/symbols?access_key=" + FixerApi.key);
+        URL url = new URL("data.fixer.io/api/symbols? access_key" + FixerApi.key);
         try (InputStream is = url.openStream()){
             return new String(is.readAllBytes());
         }
