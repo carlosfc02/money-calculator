@@ -11,6 +11,10 @@ public class SwingCurrencyDialog extends JPanel implements CurrencyDialog {
 
     private JComboBox<Currency> currencySelector;
 
+    public SwingCurrencyDialog(){
+
+    }
+
     @Override
     public CurrencyDialog define(List<Currency> currencies) {
         add(createCurrencySelector(currencies));
