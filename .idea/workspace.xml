@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Record Currency created and done with toString() method, record Money() done with toString()">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/CurrencyDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/CurrencyDialog.java" afterDir="false" />
+    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Interface CurrencyLoader created and done with the action load()">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeRateLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeRateLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +17,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Record" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -72,13 +72,29 @@
       <option name="project" value="LOCAL" />
       <updated>1706216451068</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Interface CurrencyDialog created with the actions define() a list of currencies and get() a Currency">
+      <created>1706216745769</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706216745769</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Interface CurrencyLoader created and done with the action load()">
+      <created>1706216868557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706216868557</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created class Money" />
     <MESSAGE value="Created record Money" />
     <MESSAGE value="Record Currency created and done with toString() method, record Money() done with toString()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Record Currency created and done with toString() method, record Money() done with toString()" />
+    <MESSAGE value="Interface CurrencyDialog created with the actions define() a list of currencies and get() a Currency" />
+    <MESSAGE value="Interface CurrencyLoader created and done with the action load()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface CurrencyLoader created and done with the action load()" />
   </component>
 </project>
