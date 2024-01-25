@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class SwingCurrencyDialog this class extends JPanel and implements the CurrencyDialog">
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Swing/SwingCurrencyDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Swing/SwingCurrencyDialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Swing/SwingMoneyDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Swing/SwingMoneyDialog.java" afterDir="false" />
-    </list>
+    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class SwingMoneyDialog created and done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706225480998</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Class SwingMoneyDialog created and done">
+      <created>1706226173112</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1706226173112</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,6 +270,7 @@
     <MESSAGE value="Class Main created, done and reload a new URL key api" />
     <MESSAGE value="Class SwingCurrencyDialog this class extends JPanel and implements the CurrecnyDialog" />
     <MESSAGE value="Class SwingCurrencyDialog this class extends JPanel and implements the CurrencyDialog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class SwingCurrencyDialog this class extends JPanel and implements the CurrencyDialog" />
+    <MESSAGE value="Class SwingMoneyDialog created and done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class SwingMoneyDialog created and done" />
   </component>
 </project>
