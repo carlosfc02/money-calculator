@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Interface Command created and done with execute()">
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/CurrencyDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/CurrencyDialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeMoneyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeMoneyCommand.java" afterDir="false" />
+    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class MockCurrencyDialog done">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/CurrencyLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/CurrencyLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/mocks/MockCurrencyLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/mocks/MockCurrencyLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,28 @@
       <option name="project" value="LOCAL" />
       <updated>1706217406758</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Some errors solved and class ExchangeMoneyCommand that implements the iterface Command created and done">
+      <created>1706218289957</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706218289957</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Class MockCurrencyDialog that implements CurrencyDialog created to do the mock implementation">
+      <created>1706218470039</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706218470039</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Class MockCurrencyDialog done">
+      <created>1706218532195</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706218532195</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +155,9 @@
     <MESSAGE value="Interface MoneyDialog created and done with the actions define a list of currencies and get a Money" />
     <MESSAGE value="Iterface MoneyDisplay created with the action show a Money" />
     <MESSAGE value="Interface Command created and done with execute()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface Command created and done with execute()" />
+    <MESSAGE value="Some errors solved and class ExchangeMoneyCommand that implements the iterface Command created and done" />
+    <MESSAGE value="Class MockCurrencyDialog that implements CurrencyDialog created to do the mock implementation" />
+    <MESSAGE value="Class MockCurrencyDialog done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class MockCurrencyDialog done" />
   </component>
 </project>
