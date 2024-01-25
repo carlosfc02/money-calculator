@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class MockMain created and done that execute the command execute with the ExchangeMoneyCommand">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Class FixerExchangeRateLoader created that implements ExchangeRateLoader">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706219848294</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Class FixerExchangeRateLoader created that implements ExchangeRateLoader">
+      <created>1706220784753</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1706220784753</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,6 +211,7 @@
     <MESSAGE value="Class MockMoneyDialog created and done that implements MoneyDialog for the mock implementation" />
     <MESSAGE value="Class MockMoneyDisplay created and done that implements MoneyDisplay for the mock implementation" />
     <MESSAGE value="Class MockMain created and done that execute the command execute with the ExchangeMoneyCommand" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class MockMain created and done that execute the command execute with the ExchangeMoneyCommand" />
+    <MESSAGE value="Class FixerExchangeRateLoader created that implements ExchangeRateLoader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class FixerExchangeRateLoader created that implements ExchangeRateLoader" />
   </component>
 </project>
