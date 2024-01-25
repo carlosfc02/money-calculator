@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Iterface MoneyDisplay created with the action show a Money">
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/Command.java" afterDir="false" />
+    <list default="true" id="a7d1d791-5f52-4588-91b2-39051ebf67db" name="Changes" comment="Interface Command created and done with execute()">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/CurrencyDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/CurrencyDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeMoneyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/moneycalculator/ExchangeMoneyCommand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +16,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
         <option value="Record" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -113,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706217340879</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Interface Command created and done with execute()">
+      <created>1706217406758</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706217406758</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,6 +133,7 @@
     <MESSAGE value="Record ExchangeRate created and done with a from-to Currency, Date and rate" />
     <MESSAGE value="Interface MoneyDialog created and done with the actions define a list of currencies and get a Money" />
     <MESSAGE value="Iterface MoneyDisplay created with the action show a Money" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterface MoneyDisplay created with the action show a Money" />
+    <MESSAGE value="Interface Command created and done with execute()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface Command created and done with execute()" />
   </component>
 </project>
